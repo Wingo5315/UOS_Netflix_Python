@@ -1,3 +1,8 @@
+'''
+Product: Netflix Database
+Description: Imports the database and merges into a Pandas Dataframe
+Author: Benjamin Norman 2022
+'''
 import pandas as pd
 
 class csvImport():
