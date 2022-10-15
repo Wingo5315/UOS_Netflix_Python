@@ -1,3 +1,8 @@
+'''
+Product:
+Description:
+Author:
+'''
 from databaseImporter import csvImport
 import pandas as pd
 import matplotlib
